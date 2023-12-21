@@ -1,1 +1,1 @@
-This is my third resume project. I have solved problem statement, questions asked in python,sql, power bi
+This is my third resume project. I have solved problem statement, questions asked in research 'research_questions_and_recommendations' pdf in python, sql, power bi.Power Point Presentation includes all the insights related to project. 
