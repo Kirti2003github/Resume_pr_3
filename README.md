@@ -1,4 +1,4 @@
-Analyze Growth and Present Insights to Telangana Government [SQL|Python | Power Bi ]
+Project Name - Analyze Growth and Present Insights to Telangana Government [SQL|Python | Power Bi ]
 
 •	Conducted comprehensive analysis identifying top-performing districts such as Medchal-Malkajgiri and economic hotspots like Hyderabad using pandas, MSSQL and Dax queries.
 
